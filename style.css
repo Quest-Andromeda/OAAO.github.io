@@ -341,6 +341,7 @@
   font-family: Bricolage Grotesque;
   font-weight: 700;
   text-transform: uppercase;
+  position: absolute; 
 }
 
 #backgroundCanvas {
